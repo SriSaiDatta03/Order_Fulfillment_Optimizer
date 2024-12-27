@@ -1,0 +1,201 @@
+priority,details
+1,Prime Order - TV
+2,Standard Order - Book
+3,Non-Urgent Order - Laptop
+1,Prime Order - Lamp
+2,Standard Order - Smartphone
+3,Non-Urgent Order - Tablet
+1,Prime Order - Headphones
+2,Standard Order - Monitor
+3,Non-Urgent Order - Keyboard
+1,Prime Order - Mouse
+2,Standard Order - Camera
+3,Non-Urgent Order - Speaker
+1,Prime Order - Router
+2,Standard Order - Microwave
+3,Non-Urgent Order - Refrigerator
+1,Prime Order - Air Conditioner
+2,Standard Order - Washing Machine
+3,Non-Urgent Order - Vacuum Cleaner
+1,Prime Order - Blender
+2,Standard Order - Oven
+3,Non-Urgent Order - Printer
+1,Prime Order - Scanner
+2,Standard Order - Projector
+3,Non-Urgent Order - Smartwatch
+1,Prime Order - Fitness Tracker
+2,Standard Order - Shoes
+3,Non-Urgent Order - Bag
+1,Prime Order - T-Shirt
+2,Standard Order - Pants
+3,Non-Urgent Order - Sofa
+1,Prime Order - Chair
+2,Standard Order - Desk
+3,Non-Urgent Order - Bed
+1,Prime Order - Pillow
+2,Standard Order - Fan
+3,Non-Urgent Order - Heater
+1,Prime Order - Water Purifier
+2,Standard Order - Coffee Maker
+3,Non-Urgent Order - Iron
+1,Prime Order - Hair Dryer
+2,Standard Order - E-Reader
+3,Non-Urgent Order - Gaming Console
+1,Prime Order - Drone
+2,Standard Order - Bicycle
+3,Non-Urgent Order - Skateboard
+1,Prime Order - Helmet
+2,Standard Order - Tent
+3,Non-Urgent Order - Backpack
+1,Prime Order - Camera Lens
+2,Standard Order - Power Bank
+3,Non-Urgent Order - USB Drive
+1,Prime Order - Memory Card
+2,Standard Order - External Hard Drive
+3,Non-Urgent Order - Laptop Bag
+1,Prime Order - Webcam
+2,Standard Order - Microphone
+3,Non-Urgent Order - Tripod
+1,Prime Order - Portable Speaker
+2,Standard Order - Mixer Grinder
+3,Non-Urgent Order - Juicer
+1,Prime Order - Toaster
+2,Standard Order - Rice Cooker
+3,Non-Urgent Order - Pressure Cooker
+1,Prime Order - Cookware Set
+2,Standard Order - Cutlery Set
+3,Non-Urgent Order - Dining Table
+1,Prime Order - Wardrobe
+2,Standard Order - Bookshelf
+3,Non-Urgent Order - TV Stand
+1,Prime Order - Wall Clock
+2,Standard Order - Desk Lamp
+3,Non-Urgent Order - Floor Lamp
+1,Prime Order - Curtains
+2,Standard Order - Carpet
+3,Non-Urgent Order - Picture Frame
+1,Prime Order - Mirror
+2,Standard Order - Bed Sheet
+3,Non-Urgent Order - Blanket
+1,Prime Order - Mattress
+2,Standard Order - Pillow Cover
+3,Non-Urgent Order - Laundry Basket
+1,Prime Order - Tool Kit
+2,Standard Order - Screwdriver Set
+3,Non-Urgent Order - Hammer
+1,Prime Order - Wrench
+2,Standard Order - Drill Machine
+3,Non-Urgent Order - Electric Kettle
+1,Prime Order - Hand Blender
+2,Standard Order - Juice Extractor
+3,Non-Urgent Order - Electric Shaver
+1,Prime Order - Hair Straightener
+2,Standard Order - Trimmer
+3,Non-Urgent Order - Air Fryer
+1,Prime Order - Deep Fryer
+2,Standard Order - Grill
+3,Non-Urgent Order - Dishwasher
+1,Prime Order - Food Processor
+2,Standard Order - Steam Iron
+3,Non-Urgent Order - Geyser
+1,Prime Order - Inverter
+2,Standard Order - Solar Panel
+3,Non-Urgent Order - TV
+1,Prime Order - Book
+2,Standard Order - Laptop
+3,Non-Urgent Order - Lamp
+1,Prime Order - Smartphone
+2,Standard Order - Tablet
+3,Non-Urgent Order - Headphones
+1,Prime Order - Monitor
+2,Standard Order - Keyboard
+3,Non-Urgent Order - Mouse
+1,Prime Order - Camera
+2,Standard Order - Speaker
+3,Non-Urgent Order - Router
+1,Prime Order - Microwave
+2,Standard Order - Refrigerator
+3,Non-Urgent Order - Air Conditioner
+1,Prime Order - Washing Machine
+2,Standard Order - Vacuum Cleaner
+3,Non-Urgent Order - Blender
+1,Prime Order - Oven
+2,Standard Order - Printer
+3,Non-Urgent Order - Scanner
+1,Prime Order - Projector
+2,Standard Order - Smartwatch
+3,Non-Urgent Order - Fitness Tracker
+1,Prime Order - Shoes
+2,Standard Order - Bag
+3,Non-Urgent Order - T-Shirt
+1,Prime Order - Pants
+2,Standard Order - Sofa
+3,Non-Urgent Order - Chair
+1,Prime Order - Desk
+2,Standard Order - Bed
+3,Non-Urgent Order - Pillow
+1,Prime Order - Fan
+2,Standard Order - Heater
+3,Non-Urgent Order - Water Purifier
+1,Prime Order - Coffee Maker
+2,Standard Order - Iron
+3,Non-Urgent Order - Hair Dryer
+1,Prime Order - E-Reader
+2,Standard Order - Gaming Console
+3,Non-Urgent Order - Drone
+1,Prime Order - Bicycle
+2,Standard Order - Skateboard
+3,Non-Urgent Order - Helmet
+1,Prime Order - Tent
+2,Standard Order - Backpack
+3,Non-Urgent Order - Camera Lens
+1,Prime Order - Power Bank
+2,Standard Order - USB Drive
+3,Non-Urgent Order - Memory Card
+1,Prime Order - External Hard Drive
+2,Standard Order - Laptop Bag
+3,Non-Urgent Order - Webcam
+1,Prime Order - Microphone
+2,Standard Order - Tripod
+3,Non-Urgent Order - Portable Speaker
+1,Prime Order - Mixer Grinder
+2,Standard Order - Juicer
+3,Non-Urgent Order - Toaster
+1,Prime Order - Rice Cooker
+2,Standard Order - Pressure Cooker
+3,Non-Urgent Order - Cookware Set
+1,Prime Order - Cutlery Set
+2,Standard Order - Dining Table
+3,Non-Urgent Order - Wardrobe
+1,Prime Order - Bookshelf
+2,Standard Order - TV Stand
+3,Non-Urgent Order - Wall Clock
+1,Prime Order - Desk Lamp
+2,Standard Order - Floor Lamp
+3,Non-Urgent Order - Curtains
+1,Prime Order - Carpet
+2,Standard Order - Picture Frame
+3,Non-Urgent Order - Mirror
+1,Prime Order - Bed Sheet
+2,Standard Order - Blanket
+3,Non-Urgent Order - Mattress
+1,Prime Order - Pillow Cover
+2,Standard Order - Laundry Basket
+3,Non-Urgent Order - Tool Kit
+1,Prime Order - Screwdriver Set
+2,Standard Order - Hammer
+3,Non-Urgent Order - Wrench
+1,Prime Order - Drill Machine
+2,Standard Order - Electric Kettle
+3,Non-Urgent Order - Hand Blender
+1,Prime Order - Juice Extractor
+2,Standard Order - Electric Shaver
+3,Non-Urgent Order - Hair Straightener
+1,Prime Order - Trimmer
+2,Standard Order - Air Fryer
+3,Non-Urgent Order - Deep Fryer
+1,Prime Order - Grill
+2,Standard Order - Dishwasher
+3,Non-Urgent Order - Food Processor
+1,Prime Order - Steam Iron
+2,Standard Order - Geyser
